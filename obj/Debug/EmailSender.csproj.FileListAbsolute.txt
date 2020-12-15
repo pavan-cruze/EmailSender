@@ -1,0 +1,6 @@
+C:\Users\pavan\source\repos\EmailSender\bin\Debug\EmailSender.dll
+C:\Users\pavan\source\repos\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\pavan\source\repos\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+C:\Users\pavan\source\repos\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\EmailSender\obj\Debug\EmailSender.dll
+C:\Users\pavan\source\repos\EmailSender\obj\Debug\EmailSender.pdb
